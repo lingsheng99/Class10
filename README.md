@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 技术支持
+如果您有任何问题，请联系zhuxianlong1979@gmail.com,我们会及时联系您，谢谢。
 
-You can use the [editor on GitHub](https://github.com/lingsheng99/Class10/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 应用描叙
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lingsheng99/Class10/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+“一年级语文上册点读机”软件是一款随身方便携带的智能电子点读软件，完全同步课本教材，内容完全一致，双语发音，高清内容，能随时随地帮忙孩子更好的学习，是小朋友的好老师、好家长，也是AppStore上最适合孩子们学习的应用。
+【功能特色】
+1、完全同步教材制作，内容完全一致；
+2、手势翻页，目录翻页，使用十分方便；
+3、能点能读，用心帮助孩子学习；
+4、界面美观流畅，用心制作每一个细节，操作简单直观；
+【联系我们】
+如果您在使用本软件过程中有任何疑问都可以联系我们：zhuxianlong1979@gmail.com
+感谢您对本软件的大力支持。
